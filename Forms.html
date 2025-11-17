@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms</title>
+  </head>
+  <body>
+    <fieldset>
+      <legend>My Form 1</legend>
+      <form action="example.py" method="post" id="Form1">
+        <label for="username">Username :</label>
+        <input
+          type="text"
+          name="uid"
+          id="username"
+          placeholder="Enter Username"
+        />
+        <br /><br />
+        <label for="password">Password :</label>
+        <input
+          type="password"
+          name="pwd"
+          id="password"
+          placeholder="Enter Password"
+        />
+        <br /><br />
+
+
+        <input type="file" />
+        
+        
+        <p>Select the gender</p>
+        <input type="radio" name="gender" id="male" value="Male" />
+        <label for="male">Male</label>
+        <br />
+        <input type="radio" name="gender" id="female" value="Female" />
+        <label for="female">Female</label>
+        <br />
+        <input type="radio" name="gender" id="other" value="Other" />
+        <label for="other">Other</label>
+        <br /><br />
+
+
+        <p>Select the Country</p>
+        <input type="checkbox" name="country" value="" id="country" />
+        <label for="Country">India</label><br />
+        <input type="checkbox" name="country" value="" id="country" />
+        <label for="Country">China</label><br />
+        <input type="checkbox" name="country" value="" id="country" />
+        <label for="Country">Russia</label><br />
+        <input type="checkbox" name="country" value="" id="country" />
+        <label for="Country">UK</label><br />
+        <input type="checkbox" name="country" value="" id="country" />
+        <label for="Country">Canada</label><br /><br /><br />
+
+
+        <label for="year of birth">Select Year of Birth :</label>
+        <select name="year of birth" id="year of birth">
+          <option value="2000">2000</option>
+          <option value="2001">2001</option>
+          <option value="2002">2002</option>
+          <option value="2003">2003</option>
+          <option value="2004">2004</option>
+          <option value="2005">2005</option>
+          <option value="2006">2006</option>
+          <option value="2007">2007</option>
+          <option value="2008">2008</option>
+          <option value="2009">2009</option>
+          <option value="2010">2010</option>
+        </select>
+
+        <br /><br /><br />
+        
+        
+        <textarea
+          name="Review"
+          id="Review"
+          rows="10"
+          cols="50"
+          placeholder="Enter your Review"
+        ></textarea>
+
+        <br /><br />
+        
+        <input type="submit" value="Submit" />
+        <!-- or -->
+        <button type="submit" form="Form1">Submit</button>
+      
+    
+        </form>
+    </fieldset>
+  </body>
+</html>
