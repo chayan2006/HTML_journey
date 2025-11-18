@@ -1,107 +1,170 @@
-🌐✨ HTML Learning Journey
+<!-- ========================== NEON HEADER ========================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%8C%90+My+HTML+Learning+Journey;From+Basic+Tags+to+Complete+Webpages;Building+the+Foundation+of+Frontend+Development+" />
+</p>
 
-My complete path of mastering HTML — from basic tags to building full webpage structures.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Frontend_Development-blue?style=for-the-badge" />
+</p>
 
-<div align="center">
-🚀 "Every great website begins with HTML."
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Language-HTML5-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Learning-Frontend_Development-blue?style=for-the-badge" /> </div>
-📘 Overview
+---
 
-This repository contains everything from my HTML beginner to advanced journey — including practice files, notes, mini websites, and demo structures.
-It represents the strong foundation I built before moving into CSS, JavaScript, and full-stack development.
+# 🌟 Overview  
+This repository contains my **complete HTML journey**, starting from zero and growing to the point where I can build **clean, full webpage structures**.
 
-📂 What’s Inside?
+It includes:
+- Practice files  
+- Notes  
+- Mini web projects  
+- Layout demos  
+- Personal experiments  
+- Proper semantic website structures  
 
-🏁 HTML Basics Practice
+> 🚀 **"Every great website begins with a single HTML tag."**
 
-🧱 Tags, Elements & Attributes
+---
 
-📝 Text & Formatting
+# 📂 Folder Contents  
 
-🖼️ Images, Links & Media
+### 🏁 **HTML Basics Practice**
+- Basic structure  
+- Head & body  
+- Opening/closing tags  
 
-📄 Semantic Structure (header, nav, section, footer…)
+### 🧱 **Tags, Elements & Attributes**
+- Inline vs block elements  
+- Global attributes  
+- Nesting rules  
 
-🧩 Lists, Tables, Forms
+### 📝 **Text & Formatting**
+- Headings, paragraphs  
+- Bold, italic, underline  
+- Quotes, code blocks  
 
-🎯 Mini projects & webpage demos
+### 🖼️ **Media**
+- Images  
+- Audio & video  
+- Links & navigation  
+- Embeds & iframes  
 
-💡 Personal experiments
+### 📄 **Semantic HTML**
+- `<header>` `<nav>` `<section>` `<article>` `<footer>`  
+- Clean and readable webpage layouts  
 
-🎯 My Learning Goals
+### 🧩 **Lists, Tables & Forms**
+- Unordered / ordered lists  
+- Table structure  
+- Inputs, dropdowns, radio, checkbox, buttons  
 
-Understand how HTML structures the web
+### 🎨 **Mini Projects**
+- Resume webpage  
+- Image gallery  
+- Contact form  
+- Small landing page  
+- Nav menu examples  
 
-Build clean and organized webpage layouts
+---
 
-Use semantic tags properly
+# 🎯 My Learning Goals  
+✔ Build clean & well-structured webpages  
+✔ Understand semantic HTML deeply  
+✔ Prepare for CSS & JavaScript  
+✔ Build full frontend components  
+✔ Create real mini-projects  
+✔ Gain confidence for full-stack development  
 
-Prepare for CSS, JS, and frontend development
+---
 
-Create real mini-projects using HTML
+# 🧩 Topics Completed  
+<table>
+<tr><td>
 
-Build a strong base for full-stack development
+### ✔ Fundamentals  
+- HTML skeleton  
+- Tags & attributes  
+- Comments  
+- Boilerplate  
 
-🧩 Topics Completed
-✔ Fundamentals
+</td><td>
 
-HTML Structure (<!DOCTYPE html>, head, body)
+### ✔ Text & Media  
+- Headings, paragraphs  
+- Formatting tags  
+- Images, audio, video  
+- Anchor & navigation  
 
-Tags, attributes, comments
+</td></tr>
 
-✔ Text & Media
+<tr><td>
 
-Headings, paragraphs, formatting
+### ✔ Page Layout  
+- `<div>` `<span>`  
+- Containers  
+- Semantic tags  
 
-Images, audio, video
+</td><td>
 
-Anchor links, navigation
+### ✔ Forms  
+- Input types  
+- Radio, checkbox  
+- Buttons  
+- Labels  
+- Form groups  
 
-✔ Page Layout
+</td></tr>
 
-div, span, containers
+<tr><td>
 
-Semantic tags (header, nav, article, footer)
+### ✔ Additional Concepts  
+- Lists  
+- Tables  
+- Iframes  
+- Meta tags  
 
-✔ Forms
+</td><td>
 
-Input fields
+### ✔ Practice Tasks  
+- Design structure  
+- Layout planning  
+- Page flow  
+- Navigation bar setups  
 
-Radio, checkbox, dropdown
+</td></tr>
+</table>
 
-Buttons, labels, form groups
+---
 
-✔ Additional Concepts
+# 🛠 **Mini Projects Included**
 
-Lists (ul, ol, dl)
+🌐 Simple Webpage Structures  
+📄 Resume Webpage  
+🖼️ Image Gallery Layout  
+📬 Contact Form  
+🚀 Small Landing Page  
+🧭 Navbar Menu Examples  
 
-Tables
+---
 
-Iframes
+# 🗺️ Roadmap (Next Steps)
 
-Meta tags
+### 🔜 Coming Soon:
+- 🎨 **CSS Learning Journey**  
+- 🧩 **HTML + CSS Projects**  
+- 💻 **Full Personal Portfolio**  
+- 🌐 **Mastering Frontend Basics**  
 
-🛠 Mini Projects Included
+---
 
-Simple Webpage Layouts
+# 🌈 Fancy Animated Divider  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
-Resume Webpage
+---
 
-Image Gallery
+# ❤️ If you like my learning journey  
+⭐ **Star the repository**  
+📌 Follow my progress as I build more in frontend & full stack.
 
-Contact Form
-
-Small Landing Page Structure
-
-Navigation Menu Examples
-
-🗺️ Roadmap (Next Steps)
-🔜 Coming Soon:
-
-🎨 CSS Learning Journey
-
-🧩 HTML + CSS Projects
-
-💻 Personal Portfolio Website
-
-🌐 Full Frontend Basics
